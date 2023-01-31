@@ -1,0 +1,145 @@
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+h1{
+    margin: 50px auto 0 auto ;
+    font-family: 'Playball', cursive;
+    font-weight: 100;
+    font-size: 4rem;
+    color: #66bfbf;
+    
+
+     
+}
+.my-image{
+     width: 13%;
+    margin: 40px auto 20px auto;
+}
+
+.middle-container{
+    line-height: 2;
+    font-size: smaller;
+}
+
+.skill1{
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill2{
+    border-radius: 100%;
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    position: relative;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: #66bfbf;
+   
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    color: #11999e;
+}
+
+ 
+
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.footer-link{
+    color:#11999e;
+    padding: 15px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+a:hover{
+    color:#eaf6f6 ;
+}
+ 
+.btn{
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #f2f2f2;
+    font-size: 20px;
+    background: #11999e;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+      }
+      
+      .btn:hover {
+        background: #66bfbf;
+        text-decoration: none;
+      }
+ 
+
+.top-cloud{  
+    position: absolute;
+    left: 65%;
+    top: 7%;
+
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+hr{
+    border-color: #eaf6f6;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    height: 0px;
+    width: 40px;
+    margin: 100px auto;
+}
+
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 40px;
+    margin-top: 75px;
+    line-height: 4;
+   
+}
+
+.last-sentence{
+    color: #eaf5f6;
+    font-size: 0.65rem;
+}
+
+.contact-me{
+    line-height: 3;
+}
+
